@@ -1,4 +1,4 @@
-# First Bot (/echo/caps bot)
+# First Bot (echo/caps bot)
 
 This is the first bot I've written with the tutorial by python-telegram-bot itself.
 
