@@ -1,4 +1,4 @@
-# Doggo Bot
+# Doggo Bot
 
 This is the first bot I've written with the python-telegram-bot wrapper.
 
